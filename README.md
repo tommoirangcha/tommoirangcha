@@ -6,22 +6,10 @@
 🤝 Looking forward to collaborating on impactful projects that make a difference.  
 🌱 Constantly learning and exploring new tools and technologies to level up my skills.  
 
----
-
-#### 🛠 Skills & Tools:  
-- **Data Science**: Python, Jupyter Notebook, Tableau, SQL (DBeaver, MySQL Workbench)  
-- **Data Engineering**: dbt Core, AWS Lambda, Superset, Dagster  
-- **Tech Stack**: Git, Visual Studio Code  
-- **Visualization & Reporting**: Tableau, Google Sheets, Superset  
-
-#### 🌟 Achievements:  
-- Successfully completed certification courses in **Data Science** and **Tableau**, culminating in real-world projects.  
-- Contributed to critical dashboards and marts like the **Cadence Report** and **summary_cadence** mart at work.  
-- Authored Python scripts for automating tasks like **CSV report generation** from dbt test results.  
 
 #### 🎯 Current Goals:  
 - Master Machine Learning techniques and apply them to real-world problems.  
-- Dive deeper into **AWS Serverless Computing** and explore its potential.  
+- Dive deeper into **AWS** and explore its potential.  
 - Collaborate on open-source projects and contribute to the data engineering community.  
 
 Feel free to connect or collaborate with me! 🚀  
