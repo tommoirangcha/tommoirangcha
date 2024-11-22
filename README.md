@@ -13,6 +13,10 @@
 - Collaborate on open-source projects and contribute to the data engineering community.  
 
 Feel free to connect or collaborate with me! 🚀  
+🌐 Let's Connect: www.linkedin.com/in/moirangmayum-ronaldo-
+
+
+
 
 
 # 💻 Tech Stack:
