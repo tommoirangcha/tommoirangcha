@@ -15,4 +15,3 @@ Currently I'm working at 2070 Health<br>I'm learning Machine learning <br>I'm lo
 ---
 [![](https://visitcount.itsvg.in/api?id=tommoirangcha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
