@@ -2,7 +2,7 @@
 ### Hi, I'm Moirangmayum Ronaldo! 👋  
 
 🚀 **Currently working at 2070 Health** as part of the Data Team, driving insights and innovations.  
-💡 Passionate about **Machine Learning**, **Data Engineering**, and **Visualizations**.  
+💡 Passionate about **AI**, **Machine Learning**, **Data Engineering**  
 🤝 Looking forward to collaborating on impactful projects that make a difference.  
 🌱 Constantly learning and exploring new tools and technologies to level up my skills.  
 
