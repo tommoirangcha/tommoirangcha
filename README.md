@@ -1,8 +1,9 @@
 # 💫 About Me:
-### Hi, I'm Moirangmayum Ronaldo! 👋  
+### Hi, I'm Moirangmayum Ronaldo! 👋 
+## Building with AI
 
-🚀 **Currently working at 2070 Health** as part of the Data Team, driving insights and innovations.  
-💡 Passionate about **AI**, **Machine Learning**, **Data Engineering**  
+🚀 ** Worked at Reveal Health Tech, 2070 Health** as part of the Data Team, driving insights and innovations.  
+💡 Passionate about **AI**, ***AI Agent**, **Machine Learning**, **Data Engineering**  
 🤝 Looking forward to collaborating on impactful projects that make a difference.  
 🌱 Constantly learning and exploring new tools and technologies to level up my skills.  
 
