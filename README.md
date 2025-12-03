@@ -2,7 +2,7 @@
 ### Hi, I'm Moirangmayum Ronaldo! 👋 
 ## Building with AI
 
-🚀 Currently working at **Crimson Energy Expert Pvt Ltd** as a **Data Engineer - ETL**.
+🚀 Currently working at **Crimson Energy Expert Pvt Ltd** as a **Data Engineer - ETL**.  
 🚀 **Worked at Reveal Health Tech, 2070 Health** as a data engineer/ Analytics, driving insights and innovations.  
 💡 Passionate about **AI**, ***AI Agent**, **Machine Learning**, **Data Engineering** , **RAG**.  
 🤝 Looking forward to collaborating on impactful projects that make a difference.  
