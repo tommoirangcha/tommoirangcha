@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### Hi, I'm Moirangmayum Ronaldo! 👋 
 ## Building with AI
 
@@ -9,7 +9,7 @@
 🌱 Constantly learning and exploring new tools and technologies to level up my skills.  
 
 
-#### 🎯 Current Goals:  
+#### Current Goals:  
 - Master Machine Learning techniques and apply them to real-world problems.  
 - Dive deeper into **AWS** and explore its potential.  
 - Collaborate on open-source projects and contribute to the data engineering community.  
